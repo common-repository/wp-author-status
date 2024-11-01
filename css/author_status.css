@@ -1,0 +1,10 @@
+#author_status {float: left;padding: 15px;background: #f7f7f7;margin-bottom: 10px;border: 1px solid #dcdcdc;border-radius: 10px;box-shadow: 1px 1px 1px rgba(0,0,0,0.4);}
+#author_status .status_name {float: left;width: 110px;font-size: 16px;text-align: center;text-transform: uppercase;}
+#author_status .status_counts {background-color: #007193;color: #fff;float: left;margin: 1% 5%;;padding: 0 5px;border-radius: 10px;font-size: 12px;}
+#author_status .author-avatar {clear: both;float: left;}
+#author_status .author-avatar img {background: none repeat scroll 0 0 #F7F7F7;border: 1px solid #DCDCDC;padding: 5px;border-radius: 50%;}
+#author_status .status_info {float: left;margin-left: 15px;width: 75%;}
+#author_status .status_info .status-text {margin-top: 5px;padding: 10px 5px 10px 15px;background: #BED2DB;border-radius: 20px;box-shadow: 2px 2px 2px -2px #000;color: #000;font-size: 14px;position: relative;line-height: 24px;z-index: 99;}
+#author_status .status_info .status-text:before {content: "";position: absolute;top: 10px;left: -17px;border-width: 10px;border-style: solid;border-color: transparent #BED2DB transparent transparent;}
+#author_status .status_info .status-text p {margin:0}
+#author_status .status_info .status-time {margin: 10px 10px 0 0;padding: 0 5px;color: #FAFAFA;font-size: 14px;text-align: center;float: right;background: #007193;border-radius: 5px;}
